@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="../assets/poetry.xsl"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <teiMain>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>The Matrix </title>
+                    <author>Amy Lowell</author>
+                    <respStmt>
+                        <name>Michael Kurzmeier</name>
+                        <resp>Creation of the machine-readable text and TEI-conformant markup</resp>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>C21 Editions</publisher>
+                    <date>2023</date>
+                    <availability>https://www.gutenberg.org/cache/epub/12242/pg12242-images.html#Series_One</availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <title>A Dome of Many-Coloured Glass</title>
+                        <author>Emily Dickinson</author>
+                        <publisher>Project Gutenberg</publisher>
+                        <date>2008</date>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+                <projectDesc>
+                    <p>Edith is a template for minimal editions. This document is used as an example. </p>
+                </projectDesc>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+         <body>
+      <lg>
+        <l>Goaded and harassed in the factory</l> 
+      </lg>
+      <lg rend ="indent1">
+        <l>That tears our life up into bits of days</l>
+        <l>Ticked off upon a clock which never stays,</l>
+      </lg>
+      <lg>
+        <l>Shredding our portion of Eternity,</l>
+        <l>We break away at last, and steal the key</l>
+      </lg>
+      <lg rend ="indent1">
+        <l>Which hides a world empty of hours; ways</l>
+        <l>Of space unroll, and Heaven overlays</l>
+      </lg>
+      <lg>
+        <l>The leafy, sun-lit earth of Fantasy.</l>
+      </lg>
+      <lg rend ="indent1">
+        <l>Beyond the ilex shadow glares the sun,</l>
+        <l>Scorching against the blue flame of the sky.</l>
+      </lg>
+      <lg>
+        <l>Brown lily-pads lie heavy and supine</l>
+      </lg>
+      <lg rend ="indent1">
+        <l>Within a granite basin, under one</l>
+        <l>The bronze-gold glimmer of a carp; and I</l>
+      </lg>
+      <lg>
+        <l>Reach out my hand and pluck a nectarine.</l>
+      </lg>
+    	 </body>
+        </text>
+    </teiMain>
+</TEI>

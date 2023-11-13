@@ -6,31 +6,30 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Liberty Suit</title>
-                    <author>Annemarie Ní Churreáin</author>
+                    <title>TO IRELAND IN THE COMING TIMES</title>
+                    <author>William Butler Yeats</author>
                     <respStmt>
-                        <name>James O'Sullivan</name>
+                        <name>Michael Kurzmeier</name>
                         <resp>Creation of the machine-readable text and TEI-conformant markup</resp>
                     </respStmt>
                 </titleStmt>
                 <publicationStmt>
                     <publisher>C21 Editions</publisher>
                     <date>2023</date>
-                    <availability>This digital text is freely available provided the content of the literary text is not modified and this header information remains attached to any further distributions.</availability>
+                    <availability>https://www.gutenberg.org/cache/epub/38877/pg38877-images.html#TO_IRELAND_IN_THE_COMING_TIMES</availability>
                 </publicationStmt>
                 <sourceDesc>
                     <bibl>
-                        <title>Town</title>
-                        <author>Annemarie Ní Churreáin and Rich Gilligan</author>
-                        <publisher>The Salvage Press</publisher>
-                        <pubPlace>Dublin</pubPlace>
-                        <date>2018</date>
+                        <title>Poems</title>
+                        <author>W. B. Yeats</author>
+                        <publisher>Project Gutenberg</publisher>
+                        <date>2012</date>
                     </bibl>
                 </sourceDesc>
             </fileDesc>
             <encodingDesc>
                 <projectDesc>
-                    <p>This document is part of a wider project to make the contents of Town, a collection of poetry and photography by Annemarie Ní Churreáin and Rich Gilligan, available as TEI-compliant machine-readable texts. The transcription and encoding of these materials has been undertaken with the kind permission of Jamie Murphy, who imprint The Salvage Press, published the original printed editions of Town in 2018.</p>
+                    <p>Edith is a template for minimal editions. This document is used as an example. </p>
                 </projectDesc>
             </encodingDesc>
         </teiHeader>

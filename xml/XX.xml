@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="../assets/poetry.xsl"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <teiMain>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>XX</title>
+                    <author>Emily Dickinson</author>
+                    <respStmt>
+                        <name>Michael Kurzmeier</name>
+                        <resp>Creation of the machine-readable text and TEI-conformant markup</resp>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>C21 Editions</publisher>
+                    <date>2023</date>
+                    <availability>https://www.gutenberg.org/cache/epub/12242/pg12242-images.html#Series_One</availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <title>The Project Gutenberg eBook of Poems</title>
+                        <author>Emily Dickinson</author>
+                        <publisher>Project Gutenberg</publisher>
+                        <date>2004</date>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+                <projectDesc>
+                    <p>Edith is a template for minimal editions. This document is used as an example. </p>
+                </projectDesc>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+                <body>
+      <lg>
+        <l>I taste a liquor never brewed,</l>
+        <l>From tankards scooped in pearl;</l>
+        <l>Not all the vats upon the Rhine</l>
+        <l>Yield such an alcohol!</l>
+      </lg>
+      <lg>
+        <l>Inebriate of air am I,</l>
+        <l>And debauchee of dew,</l>
+        <l>Reeling, through endless summer days,</l>
+        <l>From inns of molten blue.</l>
+      </lg>
+      <lg>
+        <l>When landlords turn the drunken bee</l>
+        <l>Out of the foxglove's door,</l>
+        <l>When butterflies renounce their drams,</l>
+        <l>I shall but drink the more!</l>
+      </lg>
+      <lg>
+        <l>Till seraphs swing their snowy hats,</l>
+        <l>And saints to windows run,</l>
+        <l>To see the little tippler</l>
+        <l>Leaning against the sun!</l>
+      </lg>
+    </body>
+        </text>
+    </teiMain>
+</TEI>

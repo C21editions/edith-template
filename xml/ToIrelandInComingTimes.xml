@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="../assets/poetry.xsl"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <teiMain>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>TO IRELAND IN THE COMING TIMES</title>
+                    <author>William Butler Yeats</author>
+                    <respStmt>
+                        <name>Michael Kurzmeier</name>
+                        <resp>Creation of the machine-readable text and TEI-conformant markup</resp>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>C21 Editions</publisher>
+                    <date>2023</date>
+                    <availability>https://www.gutenberg.org/cache/epub/38877/pg38877-images.html#TO_IRELAND_IN_THE_COMING_TIMES</availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <title>Poems</title>
+                        <author>W. B. Yeats</author>
+                        <publisher>Project Gutenberg</publisher>
+                        <date>2012</date>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+                <projectDesc>
+                    <p>Edith is a template for minimal editions. This document is used as an example. </p>
+                </projectDesc>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+      <lg>
+        <l>Know, that I would accounted be</l>
+        <l>True brother of that company,</l>
+        <l>Who sang to sweeten Ireland's wrong,</l>
+        <l>Ballad and story, rann and song;</l>
+        <l>Nor be I any less of them,</l>
+        <l>Because the red-rose-bordered hem</l>
+        <l>Of her, whose history began</l>
+        <l>Before God made the angelic clan,</l>
+        <l>Trails all about the written page;</l>
+        <l>For in the world's first blossoming age</l>
+        <l>The light fall of her flying feet</l>
+        <l>Made Ireland's heart begin to beat;</l>
+        <l>And still the starry candles flare</l>
+        <l>To help her light foot here and there;</l>
+        <l>And still the thoughts of Ireland brood</l>
+        <l>Upon her holy quietude.</l>
+      </lg>
+      <lg>
+        <l>Nor may I less be counted one</l>
+        <l>With Davis, Mangan, Ferguson,</l>
+        <l>Because to him, who ponders well,</l>
+        <l>My rhymes more than their rhyming tell</l>
+        <l>Of the dim wisdoms old and deep,</l>
+        <l>That God gives unto man in sleep.</l>
+        <l>For the elemental beings go</l>
+        <l>About my table to and fro.</l>
+        <l>In flood and fire and clay and wind,</l>
+        <l>They huddle from man's pondering mind;</l>
+        <l>Yet he who treads in austere ways</l>
+        <l>May surely meet their ancient gaze.</l>
+        <l>Man ever journeys on with them</l>
+        <l>After the red-rose-bordered hem.</l>
+        <l>Ah, faeries, dancing under the moon,</l>
+        <l>A Druid land, a Druid tune!</l>
+      </lg>
+      <lg>
+        <l>While still I may, I write for you</l>
+        <l>The love I lived, the dream I knew.</l>
+        <l>From our birthday, until we die,</l>
+        <l>Is but the winking of an eye;</l>
+        <l>And we, our singing and our love,</l>
+        <l>The mariners of night above,</l>
+        <l>And all the wizard things that go</l>
+        <l>About my table to and fro.</l>
+        <l>Are passing on to where may be,</l>
+        <l>In truth's consuming ecstasy</l>
+        <l>No place for love and dream at all;</l>
+        <l>For God goes by with white foot-fall.</l>
+        <l>I cast my heart into my rhymes,</l>
+        <l>That you, in the dim coming times,</l>
+        <l>May know how my heart went with them</l>
+        <l>After the red-rose-bordered hem.</l>
+      </lg>
+    </body>
+        </text>
+    </teiMain>
+</TEI>
